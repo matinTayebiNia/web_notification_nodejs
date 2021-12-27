@@ -1,0 +1,19 @@
+{
+  "name": "web_notification_node_js",
+  "version": "1.0.0",
+  "description": "this is a test for lerninig mange notifications in node js ",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "web-push": "^3.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
